@@ -5,7 +5,7 @@
  </head>
 <body>
     <img src=".jpg" />
-    <h1>SAMSUNG SMARTPHONES</h1>
+    <h1><i>SAMSUNG SMARTPHONES</i></h1>
     
 </body>
 </html>
